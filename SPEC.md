@@ -1,6 +1,6 @@
 # Complexity Practice Tool - MVP Spec
 
-> v1.0. Author: Juan + Claude. All open questions resolved. This is the spec we build from.
+> v1.0. All open questions resolved. This is the spec we build from.
 
 ## What this is
 

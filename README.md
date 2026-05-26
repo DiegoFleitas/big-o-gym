@@ -2,7 +2,7 @@
 
 [bigogym.io](https://bigogym.io) - a web tool for practicing time/space complexity analysis on code snippets. Built for engineers prepping technical interviews.
 
-See `SPEC.md` for the product spec and `TICKETS.md` for the implementation plan.
+See `SPEC.md` for the product spec, `AGENTS.md` for project conventions, and `DECISIONS.md` for architecture decisions.
 
 ## Setup
 
@@ -13,10 +13,6 @@ npm run test     # run unit tests
 npm run build    # produce static build in dist/
 npm run preview  # preview the production build locally
 ```
-
-## Conventions
-
-See `CLAUDE.md` for project conventions and `DECISIONS.md` for non-obvious choices.
 
 ## Deployment
 
