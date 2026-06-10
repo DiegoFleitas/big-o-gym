@@ -4,11 +4,11 @@ Time/space complexity practice tool. Stack: Vite + React + TypeScript + Tailwind
 
 ## Commands
 
-- `npm run dev` — start Vite dev server at `http://localhost:5173`
-- `npm run test` — run unit tests (vitest)
-- `npm run build` — typecheck + build static output to `dist/`
-- `npm run lint` — lint with ESLint
-- `npm run format` — format with Prettier
+- `pnpm dev` — start Vite dev server at `http://localhost:5173`
+- `pnpm test` — run unit tests (vitest)
+- `pnpm build` — typecheck + build static output to `dist/`
+- `pnpm lint` — lint with ESLint
+- `pnpm format` — format with Prettier
 
 ## Code conventions
 
